@@ -1,0 +1,52 @@
+.kotak {
+    height:8px;
+    width: 100%;
+    background-color: rgb(72, 67, 67);
+}
+
+.kotak-50 {
+    height: 8px;
+    width: 50%;
+    background-color: rgb(72, 67, 67);
+}
+
+.kotak-divider-15 {
+    height: 5px;
+    width: 15%;
+    background-color: black;
+}
+
+.kotak-75 {
+    height: 8px;
+    width: 75%;
+    background-color: rgb(72, 67, 67);
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+div.warna-jumbotron {
+    background-color: white;
+}
+
+.jumbotron > * {
+    font-family: "Open Sans";
+}
+
+.fs-48 {
+    font-size: 48px;
+    
+}
+
+.text-bold {
+    font-weight: 700;
+}
+
+.card-title {
+    letter-spacing: 1.5px;
+}
+
+#thumb {
+    min-width: 100px;
+}
